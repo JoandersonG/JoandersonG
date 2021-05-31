@@ -2,7 +2,9 @@
 
 
 Ele/Dele. 🌤️ Baiano, 23 anos, graduando em Ciência da Computação pela Universidade Federal da Bahia  
-
+  
+  
+🐞 Estagiário em Análise de Negócio na Superintendência de Tecnologia da Informação da UFBA  
 👓 Auxiliar de Pesquisador no programa de iniciação científica na UFBA  
 📋 Monitor da disciplina de Programação Orientada a Objetos na UFBA  
 
