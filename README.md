@@ -4,7 +4,7 @@
 Ele/Dele. 🌤️ Baiano, 23 anos, graduando em Ciência da Computação pela Universidade Federal da Bahia  
   
   
-🐞 Estagiário em Análise de Negócio na Superintendência de Tecnologia da Informação da UFBA  
+🐞 Desenvolvedor Backend Java na Ericsson Inovação SA
 
 
 ### ⭐ Sobre
