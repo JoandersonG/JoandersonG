@@ -16,8 +16,6 @@ Também já atuei como monitor na disciplina de Programação Orientada a Objeto
 
 Em busca de sempre ser capaz de passar conhecimentos de forma clara, concisa e acessível, pois entendo essa habilidade como ferramenta fundamental na evolução de um profissional na área de desenvolvimento de software.
 
-Possuo interesse em Engenharia de Software e desenvolvimento com Java e mobile, em especial desenvolvimento com a linguagem de programação Kotlin.
-
 ### 💡 Stack
 | Habilidade        | Projeto           |
 | ------------- |:-------------:|
