@@ -1,7 +1,7 @@
 <img src="/name_banner.png"  alt="Joanderson Gonçalves">
 
 
-Ele/Dele. 🌤️ Baiano, 23 anos, graduando em Ciência da Computação pela Universidade Federal da Bahia  
+Ele/Dele. 🌤️ Baiano, 25 anos, graduando em Ciência da Computação pela Universidade Federal da Bahia  
   
   
 🐞 Desenvolvedor Backend Java na Ericsson Inovação SA
